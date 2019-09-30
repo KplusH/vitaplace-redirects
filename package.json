@@ -1,0 +1,24 @@
+{
+  "name": "vitaplace-redirects",
+  "version": "1.0.0",
+  "description": "turns an xml sitemap into a redirection import csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KplusH/vitaplace-redirects.git"
+  },
+  "author": "“Andreas <“schoenefeldt.andreas@gmail.com”> (https://github.com/Andreas-Schoenefeldt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KplusH/vitaplace-redirects/issues"
+  },
+  "homepage": "https://github.com/KplusH/vitaplace-redirects#readme",
+  "dependencies": {
+    "fast-csv": "^3.4.0",
+    "js-handy-url": "^1.0.9",
+    "xml2js": "^0.4.22"
+  }
+}
